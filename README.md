@@ -44,4 +44,5 @@ Thesis: *Agent as a Service — Intelligent Multi-Tenant AI Platform for Small B
 
 ### 📫 Let's connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-lallo-costa-pinto-961388202)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.lallo@gmail.com)
