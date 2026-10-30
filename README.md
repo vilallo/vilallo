@@ -42,6 +42,14 @@ Thesis: *Agent as a Service — Intelligent Multi-Tenant AI Platform for Small B
 
 **BSc Information Systems and Technologies** — NOVA IMS (2021–2024)
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilallo/vilallo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vilallo/vilallo/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/vilallo/vilallo/output/github-snake.svg" />
+</picture>
+
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-lallo-costa-pinto-961388202)
