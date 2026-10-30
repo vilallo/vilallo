@@ -38,7 +38,7 @@ An open-source, multi-tenant AI platform for small business automation. Non-tech
 
 ### 🎓 Education
 
-**MSc Data Science and Advanced Analytics** — NOVA IMS (2025–2026)
+**MSc Data Science and Advanced Analytics** — NOVA IMS (2024–2026)
 Thesis: *Agent as a Service — Intelligent Multi-Tenant AI Platform for Small Business Automation*
 
 **BSc Information Systems and Technologies** — NOVA IMS (2021–2024)
